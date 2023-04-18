@@ -1,0 +1,42 @@
+{
+  "name": "Romulus",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite serve"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.12",
+    "build": "^0.1.4",
+    "devicon-react-svg": "^0.2.4",
+    "framer-motion": "^9.0.7",
+    "npm": "^9.6.1",
+    "react": "^18.2.0",
+    "react-countup": "^6.4.2",
+    "react-dom": "^18.2.0",
+    "react-intersection-observer": "^9.4.3",
+    "react-router-dom": "^6.8.1",
+    "react-slick": "^0.29.0",
+    "run": "^1.4.0",
+    "slick": "^1.12.2",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "sass": "^1.61.0",
+    "tailwindcss": "^3.2.6",
+    "vite": "^4.1.4"
+  }
+}
